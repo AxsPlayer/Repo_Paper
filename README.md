@@ -1,2 +1,2 @@
-# Project_Papers
-This repository records project which can be converted to papers.
+# Papers
+This repository contains papers which are different to owners.
